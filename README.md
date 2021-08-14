@@ -1,3 +1,5 @@
-# Twitter Dapp
+# Decentralised Twitter
 
-Twitter Dapp PoC
+```shell
+yarm install && truffle compile && truffle migrate --rest && yarm start
+```
